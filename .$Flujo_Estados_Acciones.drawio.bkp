@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
   <diagram name="Página-1" id="MIkeyjs4QQk6BGDl_76V">
-    <mxGraphModel dx="1026" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,14 +24,6 @@
         </mxCell>
         <mxCell id="xt--xUxdawuPqqKoJ-_4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#554214,#5A6872);strokeColor=none;fontColor=#ffffff;" value="&lt;sub&gt;&lt;img src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHZpZXdCb3g9IjE5MiAtODY0IDU3NiA3NjgiIHdpZHRoPSIxMiIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTU1Mi05NnYtMjEzbC03Ni03NS0zMiAxNjAtMjUyLTUxIDE0LTcwIDE4MSAzNiA1Mi0yNjMtNzkgMzR2MTA2aC03MnYtMTU0bDE4NS03OHE5LTQgMTguNS02dDE5LjUtMnEyNyAwIDQ4LjUgMTIuNVQ1OTUtNjIzbDE0IDIzcTMwIDUxIDY4IDczLjV0OTEgMjIuNXY3MnEtNTcgMC0xMDYuNS0yNVQ1NzctNTI4bC0yMyAxMjAgNzAgNzB2MjQyaC03MlptLTM1LjUtNjI0LjVRNDkyLTc0NSA0OTItNzgwdDI0LjUtNTkuNVE1NDEtODY0IDU3Ni04NjR0NTkuNSAyNC41UTY2MC04MTUgNjYwLTc4MHQtMjQuNSA1OS41UTYxMS02OTYgNTc2LTY5NnQtNTkuNS0yNC41WiIvPjwvc3ZnPg==&quot; width=&quot;12&quot; height=&quot;16&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;/sub&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;&lt;b style=&quot;&quot;&gt;Implantada&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="640" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="otMfv3SMO94mX78OrktC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#11996E,#11996E);strokeColor=none;fontColor=#ffffff;" value="&lt;sub&gt;&lt;img src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHZpZXdCb3g9IjE5MiAtODY0IDU3NiA3NjgiIHdpZHRoPSIxMiIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTU1Mi05NnYtMjEzbC03Ni03NS0zMiAxNjAtMjUyLTUxIDE0LTcwIDE4MSAzNiA1Mi0yNjMtNzkgMzR2MTA2aC03MnYtMTU0bDE4NS03OHE5LTQgMTguNS02dDE5LjUtMnEyNyAwIDQ4LjUgMTIuNVQ1OTUtNjIzbDE0IDIzcTMwIDUxIDY4IDczLjV0OTEgMjIuNXY3MnEtNTcgMC0xMDYuNS0yNVQ1NzctNTI4bC0yMyAxMjAgNzAgNzB2MjQyaC03MlptLTM1LjUtNjI0LjVRNDkyLTc0NSA0OTItNzgwdDI0LjUtNTkuNVE1NDEtODY0IDU3Ni04NjR0NTkuNSAyNC41UTY2MC04MTUgNjYwLTc4MHQtMjQuNSA1OS41UTYxMS02OTYgNTc2LTY5NnQtNTkuNS0yNC41WiIvPjwvc3ZnPg==&quot; width=&quot;12&quot; height=&quot;16&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/sub&gt;&lt;b&gt;Cerrada&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="90" x="1100" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="otMfv3SMO94mX78OrktC-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ABABAB;" target="otMfv3SMO94mX78OrktC-1" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1060" y="630" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
