@@ -1,0 +1,32 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Página-1" id="MIkeyjs4QQk6BGDl_76V">
+    <mxGraphModel dx="215" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IYS1Q-zpfz3iQnqZQr4z-1" edge="1" parent="1" source="3XkpySc_JBabw33kVH-P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.449;exitY=0.994;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;strokeColor=#ABABAB;" target="mxMtmjRyPrCBdWQWyfdy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XkpySc_JBabw33kVH-P-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#45aec2, #1EA9BF);strokeColor=none;fontColor=#ffffff;" value="&lt;sub&gt;&lt;img src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTQiIHZpZXdCb3g9Ijk2IC04MTYgNzY4IDY3MiIgd2lkdGg9IjE2IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzM2LTE0NHYtOTZIMTY4cS0yOS43IDAtNTAuODUtMjEuMTZROTYtMjgyLjMyIDk2LTMxMi4wNHYtNDMyLjI0UTk2LTc3NCAxMTcuMTUtNzk1VDE2OC04MTZoNjI0cTI5LjcgMCA1MC44NSAyMS4xNlE4NjQtNzczLjY4IDg2NC03NDMuOTZ2NDMyLjI0UTg2NC0yODIgODQyLjg1LTI2MVQ3OTItMjQwSDYyNHY5NkgzMzZaTTE2OC0zMTJoNjI0di00MzJIMTY4djQzMlptMCAwdi00MzIgNDMyWiIvPjwvc3ZnPg==&quot; width=&quot;16&quot; height=&quot;14&quot;&gt;&lt;font face=&quot;FontAwesome&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/sub&gt;&lt;b style=&quot;&quot;&gt;Activo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="830" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="mxMtmjRyPrCBdWQWyfdy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#823b3b, #1EA9BF);strokeColor=none;fontColor=#ffffff;" value="&lt;sub&gt;&lt;img src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTQiIHZpZXdCb3g9Ijk2IC04MTYgNzY4IDY3MiIgd2lkdGg9IjE2IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzM2LTE0NHYtOTZIMTY4cS0yOS43IDAtNTAuODUtMjEuMTZROTYtMjgyLjMyIDk2LTMxMi4wNHYtNDMyLjI0UTk2LTc3NCAxMTcuMTUtNzk1VDE2OC04MTZoNjI0cTI5LjcgMCA1MC44NSAyMS4xNlE4NjQtNzczLjY4IDg2NC03NDMuOTZ2NDMyLjI0UTg2NC0yODIgODQyLjg1LTI2MVQ3OTItMjQwSDYyNHY5NkgzMzZaTTE2OC0zMTJoNjI0di00MzJIMTY4djQzMlptMCAwdi00MzIgNDMyWiIvPjwvc3ZnPg==&quot; width=&quot;16&quot; height=&quot;14&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;FontAwesome&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/sub&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Ina&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;ctivo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="960" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="mxMtmjRyPrCBdWQWyfdy-7" edge="1" parent="1" source="mxMtmjRyPrCBdWQWyfdy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#ABABAB;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="600" />
+              <mxPoint x="870" y="600" />
+              <mxPoint x="870" y="620" />
+            </Array>
+            <mxPoint x="870" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CANRz1wFW3y546MKIOE6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#823b3b, #1EA9BF);strokeColor=none;fontColor=#ffffff;" value="&lt;sub&gt;&lt;img src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTQiIHZpZXdCb3g9Ijk2IC04MTYgNzY4IDY3MiIgd2lkdGg9IjE2IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzM2LTE0NHYtOTZIMTY4cS0yOS43IDAtNTAuODUtMjEuMTZROTYtMjgyLjMyIDk2LTMxMi4wNHYtNDMyLjI0UTk2LTc3NCAxMTcuMTUtNzk1VDE2OC04MTZoNjI0cTI5LjcgMCA1MC44NSAyMS4xNlE4NjQtNzczLjY4IDg2NC03NDMuOTZ2NDMyLjI0UTg2NC0yODIgODQyLjg1LTI2MVQ3OTItMjQwSDYyNHY5NkgzMzZaTTE2OC0zMTJoNjI0di00MzJIMTY4djQzMlptMCAwdi00MzIgNDMyWiIvPjwvc3ZnPg==&quot; width=&quot;16&quot; height=&quot;14&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;FontAwesome&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/sub&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Ina&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;ctivo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="1070" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
